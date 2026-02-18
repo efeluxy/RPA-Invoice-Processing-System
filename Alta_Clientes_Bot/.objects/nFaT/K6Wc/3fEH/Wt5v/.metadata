@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nombre Cliente",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Wt5vxIlhWUyTdYUFl9dNjQ",
+  "Reference": "M3l83LGlyk6-9rllj7AgZQ/Wt5vxIlhWUyTdYUFl9dNjQ",
+  "ParentRef": "M3l83LGlyk6-9rllj7AgZQ/3fEHaWoovkOedcs4UmOH-Q",
+  "Created": "2026-01-24T19:19:57.9686022Z",
+  "Updated": "2026-01-24T19:19:57.9686022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

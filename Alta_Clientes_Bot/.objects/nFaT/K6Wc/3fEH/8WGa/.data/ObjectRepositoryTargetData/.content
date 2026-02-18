@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pXdHEqMvOkyMccDcv5-lYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a92b8b9b-d722-457a-9a80-0a21f24527b1" CvElementArea="91, 596, 381, 49" CvTextArea="224, 611, 113, 16" CvTextArgument="Guardar Datos" CvType="Button" DesignTimeRectangle="91, 597, 380, 50" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="782286d4-4963-4759-84f1-763cad04a899" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='CRM de Prueba - UiPath - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e92f9308a4195e9de26d6811d4560506.png" xmlns="">0m7l46QD7YUWIOJwXU6ztSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,44 @@
+Subject: Factura pendiente - Tech Solutions SL - Ref: FAC-2024001
+From: robot@uipath-test.com
+To: admin@empresa.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5230728257630781978=="
+
+--===============5230728257630781978==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola,
+
+Adjunto encontrar=C3=A1s la factura FAC-2024001 correspondiente al cliente Tech Solutions SL.
+
+Saludos.
+
+--===============5230728257630781978==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Factura_1_B12345678.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAy
+IDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVj
+b2RlIC9MZW5ndGggMjE2Pj4Kc3RyZWFtCnicZZDBboMwEETv+Yo5toeaXdvYwI3QWKJKqyg4H2Al
+NElFg0RB/f26oT1xXb03OxqJlxWJ1OJ7tfZIHIOlIIJ/x8b/nqQmwRo2T4W18Cc8uLLyh32Jpn7d
+bWtXV+Vz+Qj/8ScoFpzDqlzQzL9Nn+3Q49TCheM4DaFAjHiSFKOJlyaTsGr+1B4vkZY6IU4ibxaw
+MZmQfIer7trexraAjxaavpvGa3/7QrNdWrFcZuZytSuwZql0amy2INPcCqXvpO/H0CFgF85hKOJM
+FHcjbA77f+sHbqlQXAplbmRzdHJlYW0KZW5kb2JqCjEgMCBvYmoKPDwvVHlwZSAvUGFnZXMKL0tp
+ZHMgWzMgMCBSIF0KL0NvdW50IDEKL01lZGlhQm94IFswIDAgNTk1LjI4IDg0MS44OV0KPj4KZW5k
+b2JqCjUgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYQovU3VidHlwZSAv
+VHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1By
+b2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUldCi9Gb250IDw8Ci9GMSA1
+IDAgUgo+PgovWE9iamVjdCA8PAo+Pgo+PgplbmRvYmoKNiAwIG9iago8PAovUHJvZHVjZXIgKFB5
+RlBERiAxLjcuMiBodHRwOi8vcHlmcGRmLmdvb2dsZWNvZGUuY29tLykKL0NyZWF0aW9uRGF0ZSAo
+RDoyMDI2MDEyNjE1MjIwMCkKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1Bh
+Z2VzIDEgMCBSCi9PcGVuQWN0aW9uIFszIDAgUiAvRml0SCBudWxsXQovUGFnZUxheW91dCAvT25l
+Q29sdW1uCj4+CmVuZG9iagp4cmVmCjAgOAowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAzNzMg
+MDAwMDAgbiAKMDAwMDAwMDU1NiAwMDAwMCBuIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAw
+ODcgMDAwMDAgbiAKMDAwMDAwMDQ2MCAwMDAwMCBuIAowMDAwMDAwNjYwIDAwMDAwIG4gCjAwMDAw
+MDA3NjkgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSA4Ci9Sb290IDcgMCBSCi9JbmZvIDYgMCBS
+Cj4+CnN0YXJ0eHJlZgo4NzIKJSVFT0YK
+
+--===============5230728257630781978==--

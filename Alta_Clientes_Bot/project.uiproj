@@ -1,0 +1,6 @@
+{
+  "Name": "Alta_Clientes_Bot",
+  "ProjectType": "Process",
+  "Description": "Bot para procesar facturas PDF desde Outlook y alta en CRM.",
+  "MainFile": "Main.xaml"
+}

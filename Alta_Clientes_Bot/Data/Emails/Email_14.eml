@@ -1,0 +1,45 @@
+Subject: Factura pendiente - Juan =?utf-8?q?P=C3=A9rez_Garc=C3=ADa?= - Ref:
+ FAC-2024014
+From: robot@uipath-test.com
+To: admin@empresa.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2252870302753902255=="
+
+--===============2252870302753902255==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola,
+
+Adjunto encontrar=C3=A1s la factura FAC-2024014 correspondiente al cliente Juan P=C3=A9rez Garc=C3=ADa.
+
+Saludos.
+
+--===============2252870302753902255==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Factura_14_12345678Z.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAy
+IDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVj
+b2RlIC9MZW5ndGggMjIxPj4Kc3RyZWFtCnicZZC9TsMwFIX3PsUZYcC5/omdZEtDjVIBioq7sFmp
+KaDSSlYiJN6YgXfAbWDKevV95557BdYLYrnB52LpkFkOLhgR3AtW7jwSihhXMGXOjIHb4crWjdtu
+ajy1D919a9umvq2v4d7/BMkZL2FkyWjiH8ePEE/YBVjfD2P0FVLEjaAUzdXc5MSMnDaF/jXRQmXE
+s8TrGax1wQS/wM3hLRyHUGE9+iO67xi+cOdj/+PnVipX6Klca6t0slS5NsXzjMxLw6S6kO40+AM8
+Or/3MTlE5z+ttpt/6ReL/1ExCmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PC9UeXBlIC9QYWdl
+cwovS2lkcyBbMyAwIFIgXQovQ291bnQgMQovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQo+
+PgplbmRvYmoKNSAwIG9iago8PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0
+eXBlIC9UeXBlMQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKMiAwIG9iago8
+PAovUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KL0ZvbnQgPDwK
+L0YxIDUgMCBSCj4+Ci9YT2JqZWN0IDw8Cj4+Cj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Qcm9kdWNl
+ciAoUHlGUERGIDEuNy4yIGh0dHA6Ly9weWZwZGYuZ29vZ2xlY29kZS5jb20vKQovQ3JlYXRpb25E
+YXRlIChEOjIwMjYwMTI2MTUyMjAwKQo+PgplbmRvYmoKNyAwIG9iago8PAovVHlwZSAvQ2F0YWxv
+ZwovUGFnZXMgMSAwIFIKL09wZW5BY3Rpb24gWzMgMCBSIC9GaXRIIG51bGxdCi9QYWdlTGF5b3V0
+IC9PbmVDb2x1bW4KPj4KZW5kb2JqCnhyZWYKMCA4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAw
+MDM3OCAwMDAwMCBuIAowMDAwMDAwNTYxIDAwMDAwIG4gCjAwMDAwMDAwMDkgMDAwMDAgbiAKMDAw
+MDAwMDA4NyAwMDAwMCBuIAowMDAwMDAwNDY1IDAwMDAwIG4gCjAwMDAwMDA2NjUgMDAwMDAgbiAK
+MDAwMDAwMDc3NCAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDgKL1Jvb3QgNyAwIFIKL0luZm8g
+NiAwIFIKPj4Kc3RhcnR4cmVmCjg3NwolJUVPRgo=
+
+--===============2252870302753902255==--

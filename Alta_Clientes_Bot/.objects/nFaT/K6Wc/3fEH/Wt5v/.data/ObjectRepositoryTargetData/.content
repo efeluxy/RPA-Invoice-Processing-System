@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-QAUGwMK10ypJc0s_nZgcg" Reference="M3l83LGlyk6-9rllj7AgZQ/Wt5vxIlhWUyTdYUFl9dNjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="84128a49-1871-412a-8334-82cf1f0dd9a9" CvElementArea="91, 355, 400, 47" CvType="InputBox" DesignTimeRectangle="92, 356, 399, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="d0f25568-8fab-406d-a0dd-ff6dae947af2" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='CRM de Prueba - UiPath - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="84128a49-1871-412a-8334-82cf1f0dd9a9" CvTextArea="92, 329, 155, 20" CvTextArgument="Nombre Cliente:" CvType="Text" DesignTimeRectangle="92, 329, 156, 19" ElementType="Text" Guid="6f2170f7-7898-4ea3-b0c7-0471827e32d3" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9d8eee0328b2d695db1dd5d27c7042b2.png" xmlns="">0XbKeyqvTEEuZUa7nKIY1Bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

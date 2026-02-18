@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XYdUqLhiY0K9cvAdYvFDJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="9eb84b7f-0f3d-41e8-bd7b-d7791f5cf382" CvElementArea="1116, 215, 115, 62" CvTextArea="1144, 239, 60, 18" CvTextArgument="Aceptar" CvType="Button" DesignTimeRectangle="1127, 223, 98, 49" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Esta página dice' role='dialog' /&gt;&lt;ctrl name='Aceptar' role='push button' /&gt;" Guid="59b072a5-c427-4622-a7d6-174d59704068" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='CRM de Prueba - UiPath - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4ee2c7b633aa80a155540de10523e7c6.png" xmlns="">08iFe_IMrFEeaEEKsYGiaSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "NIF  CIF",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "3wPtMNw4Z0mtPZJYTOZTeA",
+  "Reference": "M3l83LGlyk6-9rllj7AgZQ/3wPtMNw4Z0mtPZJYTOZTeA",
+  "ParentRef": "M3l83LGlyk6-9rllj7AgZQ/3fEHaWoovkOedcs4UmOH-Q",
+  "Created": "2026-01-24T19:20:43.3910408Z",
+  "Updated": "2026-01-24T19:20:43.3910408Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

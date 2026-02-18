@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CRM de Prueba - UiPath</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; background-color: #606060; }
+        .container { background: rgb(162, 162, 162); padding: 20px; border-radius: 8px; width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        input { width: 100%; padding: 8px; margin: 5px 0 15px 0; display: block; border: 1px solid #ccc; border-radius: 4px; }
+        label { font-weight: bold; }
+        button { width: 100%; background-color: #4CAF50; color: white; padding: 10px; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background-color: #45a049; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Alta de Clientes</h2>
+        <label for="cliente">Nombre Cliente:</label>
+        <input type="text" id="cliente" name="cliente">
+
+        <label for="nif">NIF / CIF:</label>
+        <input type="text" id="nif" name="nif">
+
+        <label for="importe">Importe Total:</label>
+        <input type="text" id="importe" name="importe">
+
+        <button onclick="guardar()">Guardar Datos</button>
+    </div>
+
+    <script>
+        function guardar() {
+            // Simula guardar y limpia los campos
+            console.log("Guardado: " + document.getElementById('cliente').value);
+            document.getElementById('cliente').value = '';
+            document.getElementById('nif').value = '';
+            document.getElementById('importe').value = '';
+            alert('¡Cliente registrado correctamente!');
+        }
+    </script>
+</body>
+</html>
