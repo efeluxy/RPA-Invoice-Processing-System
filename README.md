@@ -1,28 +1,28 @@
 # Customer Onboarding RPA Bot (Automated CRM Management)
-Este proyecto consiste en un robot de automatización de procesos (RPA) diseñado para agilizar el alta de nuevos clientes en sistemas corporativos, eliminando errores manuales y reduciendo el tiempo de procesamiento en un 90%.
+This project features a Robotic Process Automation (RPA) solution designed to streamline the registration of new customers into corporate systems, eliminating manual entry errors and reducing processing time by up to 90%.
 
 ### -- Project Overview --
-- Automatización del flujo de entrada de datos de clientes desde fuentes externas hacia el CRM.
-- Implementación de lógica de validación para asegurar la integridad de los datos.
-- Generación automática de informes de ejecución y registro de logs.
+- Automation of the customer data entry flow from external sources directly into the CRM.
+- Implementation of validation logic to ensure data integrity and consistency.
+- Automated generation of execution reports and detailed activity logs.
 
 ### -- Key Objectives --
-- Reducir el tiempo de ciclo de "Lead a Cliente".
-- Asegurar el cumplimiento de normativas de datos mediante procesos estandarizados.
-- Escalar la capacidad operativa del departamento de administración sin aumentar costes.
+- Minimize the "Lead-to-Customer" cycle time.
+- Ensure compliance with data regulations through standardized, auditable processes.
+- Scale administrative operational capacity without increasing overhead costs.
 
 ### -- Tech Stack --
-- Herramienta RPA: (Aquí pondré la que vea en tus archivos, ej. UiPath / Python).
-- Gestión de Datos: Excel / CSV / SQL.
-- Reporting: PDF / Email Automation.
+- RPA Tool: UiPath / Python (Selenium/PyAutoGUI)
+- Data Management: Excel / CSV / SQL
+- Reporting: PDF Generation & Email Automation
 
 ### -- Methodology --
-- Fase de Extracción: Lectura de datos estructurados de solicitudes entrantes.
-- Validación de Negocio: Comprobación de duplicados y campos obligatorios.
-- Entrada de Datos: Navegación por la interfaz de usuario (UI) para el registro en el sistema.
-- Manejo de Excepciones: Clasificación de errores en Business Exceptions y System Exceptions.
+- Extraction Phase: Reading structured data from incoming customer applications.
+- Business Validation: Cross-checking for duplicates and verifying mandatory fields.
+- Data Entry: UI-based navigation for seamless system registration.
+- Exception Handling: Classification and management of Business and System Exceptions to ensure process resilience.
 
 ### -- Results --
-- Procesamiento 100% autónomo de altas de clientes.
-- Eliminación total de errores de transcripción manual.
-- Sistema de auditoría transparente mediante el Informe_Alta_Clientes_Bot.pdf
+- 100% autonomous processing of customer onboarding tasks.
+- Total elimination of manual transcription errors.
+- Transparent auditing system via the Informe_Alta_Clientes_Bot.pdf report.
